@@ -51,8 +51,8 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/stockButton"
+        android:id="@+id/selectImage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="色をストックする" />
+        android:text="画像を選ぶ" />
 </LinearLayout>
